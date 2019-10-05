@@ -44,7 +44,6 @@ import org.springframework.util.ObjectUtils;
  */
 public class EncodedResource implements InputStreamSource {
 
-
 	private final Resource resource;
 
 	@Nullable
