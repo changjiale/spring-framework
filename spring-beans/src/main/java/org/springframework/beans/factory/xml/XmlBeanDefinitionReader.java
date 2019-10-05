@@ -430,6 +430,7 @@ public class XmlBeanDefinitionReader extends AbstractBeanDefinitionReader {
 			throw new BeanDefinitionStoreException(resource.getDescription(),
 					"Unexpected exception parsing XML document from " + resource, ex);
 		}
+
 	}
 
 	/**
